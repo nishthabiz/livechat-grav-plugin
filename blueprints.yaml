@@ -1,0 +1,12 @@
+name: nReach Livechat
+slug: nreach-livechat
+type: plugin
+version: 1.0.0
+description: Simple plugin to install the nReach Livechat widget onto any Grav site
+icon: key
+author:
+  name: nReach
+  email: reach@nreach.tech
+homepage: https://github.com/nishthabiz/livechat-grav-plugin
+keywords: nreach, livechat
+license: MIT
