@@ -40,7 +40,7 @@ class NreachLivechatPlugin extends Plugin
 
         $this->log("Adding widget script to page");
         $assets = $this->grav['assets'];
-        $assets->addJs('https://lc.nreach.tech/chatwidget.js', ['loading' => 'defer', 'priority' => 100, 'group' => 'bottom']);
+        $assets->addJs('https://wc.nreach.tech/chatwidget.js', ['loading' => 'defer', 'priority' => 100, 'group' => 'bottom']);
     }
 
     private function log($message)
